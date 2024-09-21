@@ -24,7 +24,7 @@ Explore these projects and more on the website, or contact us for cybersecurity 
 
 ## Features
 
-- Interactive **Services** page with detailed information on each project.
+- Interactive **Projects** page with detailed information on each project.
 - **Contact** form for clients to reach out for consultancy and service inquiries.
 - Responsive design optimized for desktop and mobile devices.
 
